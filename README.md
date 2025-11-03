@@ -1,0 +1,1 @@
+This project deals with the generation of insights and business startegies that could help the Strava Organistion to grow their trust on Users, Thereby reducing churn and help making more profit in business.
